@@ -1,0 +1,11 @@
+.nav {
+    gap: 50px;
+    display: flex;
+}
+
+.ul-list {
+    list-style: none;
+    gap: 30px;
+    align-items: center;
+    display: flex;
+}
